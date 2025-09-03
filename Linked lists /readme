@@ -1,109 +1,28 @@
-🔹 Types of Linked Lists
+ ✅ Linked List Progress
 
-Singly Linked List (SLL)
+- [x] Singly Linked List (SLL)
+  - [x] Creation
+  - [x] Traversal
+  - [x] Insertion (Begin, End, Position)
+  - [x] Deletion (Begin, End, Position)
+  - [x] Searching
+  - [x] Reversing
+  - [x] Concatenation
 
-Node = data + pointer to next
+- [ ] Circular Linked List (CLL)
+  - [ ] Creation
+  - [ ] Traversal
+  - [ ] Insertion (Begin, End, Position)
+  - [ ] Deletion (Begin, End, Position)
+  - [ ] Reversing
+  - [ ] Concatenation
 
-Circular Linked List (CLL)
+- [ ] Doubly Linked List (DLL)
+  - [ ] Creation
+  - [ ] Traversal (Forward/Backward)
+  - [ ] Insertion (Begin, End, Position)
+  - [ ] Deletion (Begin, End, Position)
+  - [ ] Reversing
+  - [ ] Concatenation
 
-Last node points back to head
-
-Doubly Linked List (DLL)
-
-Node = data + previous pointer + next pointer
-
-🔹 Operations on Linked Lists
-1. Singly Linked List (SLL)
-
-Creation
-
-Traversal (Display)
-
-Length (Count nodes)
-
-Insertion
-
-At Beginning
-
-At End
-
-At Position
-
-Deletion
-
-At Beginning
-
-At End
-
-At Position
-
-Searching (find element)
-
-Reversing the list
-
-Concatenation (joining two lists)
-
-2. Circular Linked List (CLL)
-
-Creation
-
-Traversal (loop stops when we return to head)
-
-Insertion
-
-At Beginning
-
-At End
-
-At Position
-
-Deletion
-
-At Beginning
-
-At End
-
-At Position
-
-Reversing
-
-Concatenation
-
-3. Doubly Linked List (DLL)
-
-Creation
-
-Traversal (forward & backward)
-
-Insertion
-
-At Beginning
-
-At End
-
-At Position
-
-Deletion
-
-At Beginning
-
-At End
-
-At Position
-
-Reversing (using prev & next links)
-
-Concatenation
-
-🔹 Applications of Linked Lists
-
-Dynamic memory allocation (no fixed size like arrays).
-
-Implementation of Stacks & Queues.
-
-Representing polynomials and long integers.
-
-Adjacency lists in graphs.
-
-Symbol tables in compilers.
 
